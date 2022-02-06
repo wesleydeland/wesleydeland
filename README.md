@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**wesleydeland/wesleydeland** is a ✨ _special_ ✨ repository and and showcases my fleeting ideas and stalled projects 🤣
+**wesleydeland/wesleydeland** is a ✨ _special_ ✨ repository and showcases my fleeting ideas and stalled projects 🤣
 
 - 🔭 I’m currently working on secret projects at Dell :)
 - 🌱 I’m currently learning Blazor WebAssembly
