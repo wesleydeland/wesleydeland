@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**wesleydeland/wesleydeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**wesleydeland/wesleydeland** is a ✨ _special_ ✨ repository and and showcases my fleeting ideas and stalled projects 🤣
 
 - 🔭 I’m currently working on secret projects at Dell :)
 - 🌱 I’m currently learning Blazor WebAssembly
