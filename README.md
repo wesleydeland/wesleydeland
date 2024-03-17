@@ -4,7 +4,7 @@
 **wesleydeland/wesleydeland** is a ✨ _special_ ✨ repository and showcases my fleeting ideas and stalled projects 🤣
 
 - 🔭 I’m currently working on secret projects at Dell :)
-- 🌱 I’m currently learning Blazor WebAssembly
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: mail@wesleydeland.com
 - 😄 Pronouns: he/him/his
 
