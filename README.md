@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**wesleydeland/wesleydeland** is a ✨ _special_ ✨ repository and showcases my fleeting ideas and stalled projects 🤣
+**wesleydeland/wesleydeland** is a ✨ _special_ ✨ repository and showcases my fleeting ideas, learnings, tutorials, and stalled projects 🤣
 
-- 🔭 I’m currently working on secret projects at Dell :)
+- 🔭 I’m currently working on secret projects at Fora Financial :)
 - 🌱 I’m currently learning Go
 - 📫 How to reach me: mail@wesleydeland.com
 - 😄 Pronouns: he/him/his
